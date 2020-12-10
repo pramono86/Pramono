@@ -1,0 +1,2 @@
+# Pramono
+Pekerja keras
